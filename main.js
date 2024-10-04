@@ -20,5 +20,8 @@ document.querySelector('#app').innerHTML = `
     </p>
   </div>
 `
+document.querySelector('#app').innerHTML = `
+  <h1>¡Hola mundo! Soy Alejandro Roca</h1>
+`;
 
 setupCounter(document.querySelector('#counter'))
